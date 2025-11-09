@@ -118,7 +118,7 @@ HTML = """
   <h1>Leadership Change Assistant</h1>
   <div class="subtitle">
     Query executive & director leadership changes (e.g. 8-K Item 5.02 events) across tracked companies.
-    Try: <code>Show me leadership changes for Apple in 2025.</code>
+    Try: Show me all leadership changes for Apple in 2025.
   </div>
 
   <form method="post" action="/chat">
