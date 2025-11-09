@@ -3,3 +3,4 @@ uvicorn
 azure-identity
 azure-ai-projects
 azure-ai-agents
+python-multipart
